@@ -73,5 +73,6 @@ Yes, the story is honestly one of my favourites using data innovatively to under
 Yes, I would just add more colors and maybe blocks/ borders to distinguish the different places and the clusters of low and high income disparity 
 
 **Creativity**
-Did the piece use some creative elements to good effect? 	Yes, I think the chart was simple but effective. The creativity was in the data used to track down something like this
-On a scale of 1-5: 5
+1. Did the piece use some creative elements to good effect? 	Yes, I think the chart was simple but effective. The creativity was in the data used to track down something like this
+
+2. On a scale of 1-5: 5
