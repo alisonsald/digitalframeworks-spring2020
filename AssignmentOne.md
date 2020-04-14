@@ -2,7 +2,7 @@
 # STORY IDEAS FOR DIGITAL FRAMEWORKS (Assignment 1)
 *by Alison Saldanha*
 
-## 1. Impact of COVID-19 on prisons/ jails across the U.S.
+## 1. Impact of COVID-19 on jails across the U.S.
 
 ### My first story idea is to compare cases of COVID-19 in jails across the U.S. with local data on the spread of the disease to get an overall understanding of how inmates are affected. I would also like to look at how these DOC facilities operate: what is the occupancy rate? What kind of charges do the inmates hold? Specifically, I would like to know how many pretrial detentions were held at these facilities, and on what charges. I could limit these to the top five crowded jails in the U.S. to start off and then may consider expanding to other areas depending on how easy/ difficult it is to get the data I am looking for.  I was inspired to do this looking at this project by the New York Times and the Marshall Project which captured the movement in and out of jails across the U.S. 
 
