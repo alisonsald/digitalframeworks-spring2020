@@ -4,7 +4,8 @@ Submissions for Randall Leonard's class
 ## Assignment 3: A created dataset ##
 *By Alison Saldanha*
 
-Updated as of (date)|	City	| No. of confirmed cases|No. of deaths	| % of Black population|% of Black cases|	% of Black deaths|	Source| Source|
+| Updated as of |	City	| No. of confirmed cases|No. of deaths	| % of Black population|% of Black cases|	% of Black deaths|	Source| Source|
+|---|---|---|---|---|---|---|---|---|
 4/28/2020 13:28:26 |	Seattle|	5,990	|416	|6%	|8% |	7%	|Link(https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html)	|
 4/28/2020 13:28:27| Chicago	|18,679	|773	|30.10%	|42%	|55.70%	|Link (https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html)|	
 4/28/2020 13:28:29|	District of Columbia|	3,892	|185 | 46.40%	|49%	|79%	|Link	(https://coronavirus.dc.gov/sites/default/files/dc/sites/coronavirus/page_content/attachments/COVID19-Situational-Update-Presentation_0412720.pdf)|
