@@ -1,7 +1,7 @@
 # digitalframeworks-spring2020
 Submissions for Randall Leonard's class
 
-## Assignment 3: A created dataset ##
+## Assignment 3: A created dataset : How COVID-19 is impacting the Black community in American cities##
 *By Alison Saldanha*
 
 | Updated as of |	City	| No. of confirmed cases|No. of deaths	| % of Black population|% of Black cases|	% of Black deaths|	Source| Source|
