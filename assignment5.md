@@ -2,6 +2,6 @@ For this assignment, I downloaded the the Federal Election Commission's data for
 
 Since these originally cleaned files were to heavy to upload onto github I limited the rows to 64. 
 
-The original data is saved here: [Link](digitalframeworks-spring2020/Original data_FEC 2019 (shortened).csv)
+The original data is saved here: [Link](https://github.com/alisonsald/digitalframeworks-spring2020/blob/master/Original%20data_FEC%202019%20(shortened).csv)
 
-The cleaned data is saved here : [Link](digitalframeworks-spring2020/Cleaned data_FEC (shortened).csv)
+The cleaned data is saved here : [Link](https://github.com/alisonsald/digitalframeworks-spring2020/blob/master/Cleaned%20data_FEC%20(shortened).csv)
