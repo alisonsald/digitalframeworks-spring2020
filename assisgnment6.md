@@ -1,7 +1,7 @@
 **Interviewing the data** 
 
 For this assignment I chose the Colorado state government data on COVID-19 clusters. 
-https://covid19.colorado.gov/data/outbreak-data
+[link](https://covid19.colorado.gov/data/outbreak-data)
 
 **I asked the questions:** 
 1. How many clusters has Colorado identified?
@@ -11,7 +11,7 @@ Answer: 4667 confirmed cases and 547 deaths. There are also 1443 probable cases 
 3. How many cases and deaths are tied to prisons or jails?
 Answer: 16.8%
 
-For this, I downloaded and put this data on a google sheet here: https://docs.google.com/spreadsheets/d/1JkCVRDl8Wd1QPri62PfCe7SLbrxFCRitn_lUx9GTL0A/edit?usp=sharing
+For this, I downloaded and put this data on a google sheet here: [link](https://docs.google.com/spreadsheets/d/1JkCVRDl8Wd1QPri62PfCe7SLbrxFCRitn_lUx9GTL0A/edit?usp=sharing)
 I then froze the top row so that I could see the headers as I scrolled down. 
 
 I selected the column with facility names and hit Command to deselect the header. This gave me the count of clusters listed. 
